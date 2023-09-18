@@ -1,0 +1,136 @@
+{
+  "get-detailed-report": {
+    "statusAPI": "SUCCESS",
+    "errorMessage": "",
+    "statusAPICODE": "SUCCESS",
+    "result": [
+      {
+        "reportName": "Sprint 1",
+        "reportUuid": "abc123",
+        "reportDate": "2023-08-25 00:00:00.000",
+        "score": {
+          "repeatableDomainTraining": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.6,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "personAccountableIdentified": {
+            "kpiScore": 1,
+            "kpiMaxScore": 1,
+            "kpiNormalized": 1,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "glossary": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.6,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "initialDomainTraining": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.7,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "pairProgramming": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.22,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "proposalPresentation": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.6,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "firstSpringOutcome": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.6,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "cicd": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.11,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "ddd": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.33,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "pr": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.33,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "securityAndPil": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.33,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "testStrategy": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.6,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "automationLevel": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.6,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "report": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.34,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "format": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.6,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "dod": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.6,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "dor": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.6,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "bdd": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.98,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "sprintPoint": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 1.05,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          },
+          "superKpi": {
+            "kpiScore": 60,
+            "kpiMaxScore": 100,
+            "kpiNormalized": 0.77,
+            "kpiDate": "2023-08-25 00:00:00.000"
+          }
+        }
+      }
+    ]
+  }
+}
